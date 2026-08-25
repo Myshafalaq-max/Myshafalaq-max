@@ -46,6 +46,20 @@ I'm a B.Tech graduate and Java Full Stack Developer passionate about building pr
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
+### 🚀 Featured Projects
+
+🔹 **ShopEasy – Online Shopping Website**  
+Full-stack e-commerce application built with React, Spring Boot and MySQL, featuring JWT authentication, cart, orders and admin management.
+
+🔹 **React CI/CD Deployment**  
+React application deployed using Docker, Nginx, Jenkins and AWS EC2 with an automated CI/CD pipeline.
+
+🔹 **AI-Assisted Animal Intrusion Detection System**  
+Smart agriculture system using Python, YOLO, OpenCV and Raspberry Pi for real-time animal detection.
+
+🔹 **Smart Shoe – Foot Pressure Tracker**  
+IoT-based foot pressure monitoring system using ESP32 and Firebase.
+
 ### 🔗 Connect With Me
 
 <p align="left">
