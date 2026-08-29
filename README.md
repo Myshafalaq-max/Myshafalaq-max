@@ -74,7 +74,11 @@ IoT-based foot pressure monitoring system using ESP32 and Firebase.
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Myshafalaq-max&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
+### 📈 Contribution Graph
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/db61a2/Myshafalaq-max" alt="Myshafalaq-max's GitHub contribution graph" />
+</p>
 
 ### 💭 Dev Quote
 
